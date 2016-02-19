@@ -1,4 +1,4 @@
-# Snake_Rewind
+# Snake-RD
 DESCRIPCION:
 Es un juego clásico conocido como Snake pero con la diferencia de que tiene  
 mejoras en comparacion a versiones ya existentes para Pcs.
